@@ -1,4 +1,4 @@
-# Tic -Tac-Toe
+# Tic-Tac-Toe
 
 #### A Django application of the game Tic-Tac-Toe. 
 

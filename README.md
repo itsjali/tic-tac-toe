@@ -1,6 +1,6 @@
-# Welcome to my first Django Project 
+# Tic Tac Toe
 
-#### A simple game of Tic Tac Toe. 
+#### A Django application of the game Tic Tac Toe. 
 
 ## Version 1
 
